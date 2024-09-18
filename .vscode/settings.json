@@ -1,0 +1,22 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\PROGRA~1\\QGIS33~1.10\\apps\\qgis-ltr\\python",
+    ],
+    "python.defaultInterpreterPath": "C:\\PROGRA~1\\QGIS33~1.10\\apps\\Python312\\python.exe",
+    "files.associations": {
+        "metadata.txt": "ini",
+        "*.qrc": "xml",
+        "*.ui": "xml"
+    },
+    "terminal.integrated.defaultProfile.windows": "OSGeo4W Shell",
+    "terminal.integrated.profiles.windows": {
+        "OSGeo4W Shell": {
+            "path": "${env:ComSpec}",
+            "args": [
+                "/K",
+                "C:\\PROGRA~1\\QGIS33~1.10\\OSGeo4W.bat;popd",
+            ],
+            "icon": "terminal-cmd"
+        }
+    },
+}
