@@ -1,3 +1,0 @@
-# QtDesigner Tips
-
-
